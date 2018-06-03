@@ -1,0 +1,1 @@
+See post at https://stonesoupprogramming.com/2018/06/04/three-uses-for-kotlin-when/
